@@ -1,2 +1,28 @@
 For my modrinth datapack
 https://modrinth.com/datapack/craft-green-dyes
+
+Green dye:
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:yellow_dye",
+    "minecraft:blue_dye"
+  ],
+  "result": {
+    "id": "minecraft:green_dye"
+  }
+}
+
+---
+
+Lime dye:
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:light_blue_dye",
+    "minecraft:yellow_dye"
+  ],
+  "result": {
+    "id": "minecraft:lime_dye"
+  }
+}
