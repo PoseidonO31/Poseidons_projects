@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "key": {
+    "#": "create:andesite_alloy",
+    "S": "minecraft:smooth_stone"
+  },
+  "result": {
+    "id": "create:crushing_wheel",
+    "count": 1
+  }
+}
